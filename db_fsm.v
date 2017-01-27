@@ -1,3 +1,8 @@
+//////////////////////////////////////////////////////////////////////////////////
+// Company:FEIncorporated 
+// Engineer: FatallEggor
+//
+//* Description: The slide and pushbutton switches on the prototyping board are mechanical devices. When pressed, the switch may bounce back and forth a few times before settling down.The purpose of a debouncing circuit is to filter out the glitches, associated with switch transitions.*//////////////////////////////////////////////////////////////////////////////////
 module db_fsm
 (	
 	input wire clk,
